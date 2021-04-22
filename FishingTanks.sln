@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishingTanks.API", "src\FishingTanks.API\FishingTanks.API.csproj", "{6CEDC9C5-0C1B-4452-94DB-6A5D3C6F99C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishingTanks.Domain", "src\FishingTanks.Domain\FishingTanks.Domain.csproj", "{EAC5A16F-1392-44EA-A308-54EEC4FFA051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishingTanks.Infrastructure", "src\FishingTanks.Infrastructure\FishingTanks.Infrastructure.csproj", "{CF728786-371C-4C5A-8BEF-8B964D101527}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{68528AD0-D1CD-469B-8900-33A8E67D7146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CEDC9C5-0C1B-4452-94DB-6A5D3C6F99C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEDC9C5-0C1B-4452-94DB-6A5D3C6F99C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEDC9C5-0C1B-4452-94DB-6A5D3C6F99C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEDC9C5-0C1B-4452-94DB-6A5D3C6F99C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC5A16F-1392-44EA-A308-54EEC4FFA051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC5A16F-1392-44EA-A308-54EEC4FFA051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC5A16F-1392-44EA-A308-54EEC4FFA051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC5A16F-1392-44EA-A308-54EEC4FFA051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF728786-371C-4C5A-8BEF-8B964D101527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF728786-371C-4C5A-8BEF-8B964D101527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF728786-371C-4C5A-8BEF-8B964D101527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF728786-371C-4C5A-8BEF-8B964D101527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
