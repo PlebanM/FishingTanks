@@ -17,6 +17,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\FishingTanks.Infrastructure\FishingTanks.Infrastructure.csproj" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
     </ItemGroup>
 
 </Project>
